@@ -3,6 +3,7 @@ import os
 import asyncio
 import time
 import random
+import colorama
 from discord.ext import commands
 from colorama import Fore as COL
 from colorama import Style as STY
